@@ -1,0 +1,2 @@
+Sitemap: https://megapoker99.vercel.app/sitemap.xml
+User-agent: *
